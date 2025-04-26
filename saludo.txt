@@ -1,1 +1,1 @@
-﻿Hola desde Feature 1
+Hola desde ambos features combinados
